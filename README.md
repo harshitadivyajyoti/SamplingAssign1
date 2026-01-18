@@ -5,7 +5,7 @@ Under the course **Predictive Analytics Using Statistics**
 This project analyzes the impact of different sampling techniques on the performance of various machine learning models. Using a Credit Card Fraud Detection dataset, the project addresses class imbalance through oversampling, applies five distinct sampling techniques, and evaluates five different predictive models to determine which combination yields the highest accuracy.
 
 ## 📂 Dataset
-* **Source:** Credit Card Fraud Detection Dataset (`Creditcard_data.csv`).
+* **Source:** [Credit Card Fraud Detection Dataset](https://github.com/AnjulaMehto/Sampling_DataSet/tree/main)
 * **Characteristics:** The original dataset is highly unbalanced.
 * **Preprocessing:** The minority class was oversampled using random oversampling to create a balanced dataset before applying specific sampling techniques.
 
